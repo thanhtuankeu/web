@@ -1,0 +1,20 @@
+#this is a sample text
+#normal
+#NOetu;     Nom;     prenmon;note ; abs ;  note 3c
+;
+102345434 ; Martin ; Ahomasio ; 1111.7 ; abs ; 12.9
+302345434 ; Nartin ; Chomasffff ; 333.3 ; abs ; 12.9
+202345434 ; Gartin ; Zhhomasuio ; 3.3 ; abs ; 17.9
+202345434 ; Fartin ; Bhomas ; 4.6 ; abs ; 11.9
+102345434 ; Martin ; Ahomasaaaaaaaaa ; 5.7 ; abs ; 12.9
+302345434 ; Nartin ; Chomas ; 5.3 ; abs ; 12.9
+202345434 ; Gartin ; Bhomasb ; 7.6 ; abs ; 14.9
+102345434 ; Jartin ; As ; 2.7 ; abs ; 15.9
+302345434 ; Partin ; Chas ; 3.3 ; abs ; 17.9
+202345434 ; Fartin ; Ehomas ; 4.644 ; abs ; 11.9
+102345434 ; Martin ; Akomas ; 5.7 ; abs ; 12.9
+302345434 ; Nartin ; Chomas ; 5.35 ; abs ; 12.9
+202345434 ; Gartin ; Bjjomas ; 7.6 ; abs ; 14.9
+102345434 ; Jartin ; Ahomas ; 2.7 ; abs ; 15.9
+302345434 ; Partin ; Chomas ; 3.3 ; abs ; 17.9
+202345434 ; Fartin ; Bhomas ; 4.6 ; abs ; 11.9

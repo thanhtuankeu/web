@@ -1,0 +1,7 @@
+#this is a sample text
+#normal
+#NOetu;     Nom;     prenmon;note ; abs ;  note 3c
+;
+002345434 ; MoMOO ; Dendi ; 5.9 ; abs ; 22.9
+102345434 ; Partin ; Ahomas ; 12.7 ; abs ; 15.9
+
